@@ -1,2 +1,6 @@
-// 1.20.1	2025-06-30T08:55:23.1789313	Item Models: hazardous
+// 1.20.1	2025-07-01T08:30:13.028836	Item Models: hazardous
+81f7ca2d5da98c0b114e11cfe52cf837f0fe3fbf assets/hazardous/models/item/hazmat_suit_boots.json
+4ba0b055ec901e5d259fdaf3b6e97722e2dbb4ba assets/hazardous/models/item/hazmat_suit_chest.json
+0cb4201075af4e0bee295d4a3b452dc7b328a162 assets/hazardous/models/item/hazmat_suit_legs.json
+63871a730fbd27fcb76fac8c927848ed1504e539 assets/hazardous/models/item/hazmat_suit_mask.json
 f1a77a5579b08555b10a1f5ef27d62d3dbb53a39 assets/hazardous/models/item/health_pack.json

@@ -1,5 +1,17 @@
 {
+  "creativetab.hazardous": "Hazardous",
+
   "item.hazardous.health_pack": "Health Pack",
 
-  "block.hazardous.iron_grate": "Iron Grate"
+  "item.hazardous.hazmat_suit_mask": "Hazmat Suit Mask",
+  "item.hazardous.hazmat_suit_chest": "Hazmat Suit Chest",
+  "item.hazardous.hazmat_suit_legs": "Hazmat Suit Legs",
+  "item.hazardous.hazmat_suit_boots": "Hazmat Suit Boots",
+
+  "block.hazardous.iron_grate": "Iron Grate",
+  "block.hazardous.iron_grate_exposed": "Exposed Iron Grate",
+  "block.hazardous.iron_grate_oxidized": "Oxidized Iron Grate",
+  "block.hazardous.iron_scaffolding": "Iron Scaffolding",
+  "block.hazardous.iron_scaffolding_exposed": " Exposed Iron Scaffolding",
+  "block.hazardous.iron_scaffolding_oxidized": "Oxidized Iron Scaffolding"
 }
