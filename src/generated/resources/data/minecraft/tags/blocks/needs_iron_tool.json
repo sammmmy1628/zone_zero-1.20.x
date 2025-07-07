@@ -1,5 +1,10 @@
 {
   "values": [
-    "hazardous:iron_grate"
+    "zonezero:iron_grate",
+    "zonezero:iron_grate_exposed",
+    "zonezero:iron_grate_oxidized",
+    "zonezero:iron_scaffolding",
+    "zonezero:iron_scaffolding_exposed",
+    "zonezero:iron_scaffolding_oxidized"
   ]
 }

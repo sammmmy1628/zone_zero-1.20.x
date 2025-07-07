@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "hazardous:block/iron_grate_oxidized"
-  }
-}
