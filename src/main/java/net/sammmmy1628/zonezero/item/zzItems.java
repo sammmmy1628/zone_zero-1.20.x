@@ -7,10 +7,7 @@ import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import net.sammmmy1628.zonezero.ZoneZero;
-<<<<<<< Updated upstream
-=======
 import net.sammmmy1628.zonezero.item.custom.HazmatSuitItem;
->>>>>>> Stashed changes
 
 public class zzItems {
     public static final DeferredRegister<Item> ITEMS =
