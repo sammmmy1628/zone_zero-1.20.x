@@ -7,7 +7,6 @@ import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import net.sammmmy1628.zonezero.ZoneZero;
-import net.sammmmy1628.zonezero.item.hazmat_suit.HazmatSuitMaskItem;
 
 public class zzItems {
     public static final DeferredRegister<Item> ITEMS =
